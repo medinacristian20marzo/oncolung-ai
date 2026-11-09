@@ -1,0 +1,493 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	SAMPLE_ID	METHOD_OF_SAMPLE_PROCUREMENT	COUNTRY	SAMPLE_PRESCREENED	SUBMITTED_FOR_LCE	TOP_SLIDE_SUBMITTED	TUMOR_NECROSIS_PERCENT	TUMOR_NUCLEI_PERCENT	TUMOR_WEIGHT	VESSEL_USED
+TCGA-05-4244	0		Sample Acquisition	TCGA-05-4244-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4249	0		Sample Acquisition	TCGA-05-4249-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4250	0		Sample Acquisition	TCGA-05-4250-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4382	0		Sample Acquisition	TCGA-05-4382-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4384	0		Sample Acquisition	TCGA-05-4384-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4389	0		Sample Acquisition	TCGA-05-4389-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4390	0		Sample Acquisition	TCGA-05-4390-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4395	0		Sample Acquisition	TCGA-05-4395-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4396	0		Sample Acquisition	TCGA-05-4396-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4397	0		Sample Acquisition	TCGA-05-4397-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4398	0		Sample Acquisition	TCGA-05-4398-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4402	0		Sample Acquisition	TCGA-05-4402-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4403	0		Sample Acquisition	TCGA-05-4403-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4405	0		Sample Acquisition	TCGA-05-4405-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4410	0		Sample Acquisition	TCGA-05-4410-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4415	0		Sample Acquisition	TCGA-05-4415-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4417	0		Sample Acquisition	TCGA-05-4417-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4418	0		Sample Acquisition	TCGA-05-4418-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4420	0		Sample Acquisition	TCGA-05-4420-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4422	0		Sample Acquisition	TCGA-05-4422-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4424	0		Sample Acquisition	TCGA-05-4424-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4425	0		Sample Acquisition	TCGA-05-4425-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4426	0		Sample Acquisition	TCGA-05-4426-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4427	0		Sample Acquisition	TCGA-05-4427-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4430	0		Sample Acquisition	TCGA-05-4430-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4432	0		Sample Acquisition	TCGA-05-4432-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4433	0		Sample Acquisition	TCGA-05-4433-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-4434	0		Sample Acquisition	TCGA-05-4434-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-5423	123		Sample Acquisition	TCGA-05-5423-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-5425	31		Sample Acquisition	TCGA-05-5425-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-5428	0		Sample Acquisition	TCGA-05-5428-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-5429	30		Sample Acquisition	TCGA-05-5429-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-05-5715	62		Sample Acquisition	TCGA-05-5715-01		Germany	Yes		No	20	70	100	Cryovial
+TCGA-4B-A93V	0		Sample Acquisition	TCGA-4B-A93V-01	Tumor Resection	United States	Yes	No	Yes	5	80	1000	Cassette
+TCGA-35-3615	0		Sample Acquisition	TCGA-35-3615-01		Russia	Yes		Yes	10	80	540	Oct Block
+TCGA-35-4122	3		Sample Acquisition	TCGA-35-4122-01		Russia	Yes		Yes	15	85	320	Oct Block
+TCGA-35-4123	-7		Sample Acquisition	TCGA-35-4123-01		Russia	Yes		Yes	15	85	220	Oct Block
+TCGA-35-5375	0		Sample Acquisition	TCGA-35-5375-01	Tumor Resection	Russia	Yes		Yes	30	70	300	Cryomold
+TCGA-38-4625	0		Sample Acquisition	TCGA-38-4625-01		United States	Yes		Yes	30	70	340	Cassette
+TCGA-38-4626	0		Sample Acquisition	TCGA-38-4626-01		United States	Yes		Yes	30	70	449	Cassette
+TCGA-38-4627	0		Sample Acquisition	TCGA-38-4627-01		United States	Yes		Yes	30	70	280	Cassette
+TCGA-38-4628	0		Sample Acquisition	TCGA-38-4628-01		United States	Yes		Yes	30	70	205	Cassette
+TCGA-38-4631	0		Sample Acquisition	TCGA-38-4631-01		United States	Yes		Yes	30	70	213	Cassette
+TCGA-38-4632	0		Sample Acquisition	TCGA-38-4632-01		United States	Yes		Yes	30	70	297	Cassette
+TCGA-38-6178	0		Sample Acquisition	TCGA-38-6178-01	Tumor Resection	United States	Yes		No	30	60	133	Cryovial
+TCGA-38-7271	0		Sample Acquisition	TCGA-38-7271-01	Tumor Resection	United States	Yes		No	5	50	210	Cryovial
+TCGA-38-A44F	33		Sample Acquisition	TCGA-38-A44F-01	Tumor Resection	United States	Yes	Yes	No	5	50	629	Cryovial
+TCGA-44-2655	0		Sample Acquisition	TCGA-44-2655-01	Tumor Resection	United States	Yes		Yes	5	70	300	Cryovial
+TCGA-44-2656	28		Sample Acquisition	TCGA-44-2656-01		United States	Yes		Yes	5	80	710	Cryovial
+TCGA-44-2657	0		Sample Acquisition	TCGA-44-2657-01		United States	Yes		Yes	1	80	227	Cryovial
+TCGA-44-2659	0		Sample Acquisition	TCGA-44-2659-01	Tumor Resection	United States	Yes		Yes	1	80	237	Cryovial
+TCGA-44-2662	0		Sample Acquisition	TCGA-44-2662-01	Tumor Resection	United States	Yes		Yes	10	80	200	Cryovial
+TCGA-44-2665	21		Sample Acquisition	TCGA-44-2665-01		United States	Yes		Yes	5	90	300	Cryovial
+TCGA-44-2666	0		Sample Acquisition	TCGA-44-2666-01		United States	Yes		Yes	5	90	700	Cryovial
+TCGA-44-2668	0		Sample Acquisition	TCGA-44-2668-01	Tumor Resection	United States	Yes		Yes	10	75	400	Cryovial
+TCGA-44-3396	48		Sample Acquisition	TCGA-44-3396-01	Tumor Resection	United States	Yes		Yes	5	70	443	Cryovial
+TCGA-44-3398	38		Sample Acquisition	TCGA-44-3398-01		United States	Yes		Yes	5	75	767	Cryovial
+TCGA-44-3917	133		Sample Acquisition	TCGA-44-3917-01		United States	Yes		Yes	5	80	220	Cryovial
+TCGA-44-3918	0		Sample Acquisition	TCGA-44-3918-01		United States	Yes		Yes	5	70	966	Cryovial
+TCGA-44-3919	0		Sample Acquisition	TCGA-44-3919-01		United States	Yes		Yes	5	70	200	Cryovial
+TCGA-44-4112	27		Sample Acquisition	TCGA-44-4112-01			Yes		Yes	5	80	983	Cryovial
+TCGA-44-5643	45		Sample Acquisition	TCGA-44-5643-01		United States	Yes		Yes	5	90	600	Cryovial
+TCGA-44-5644	0		Sample Acquisition	TCGA-44-5644-01		United States	Yes		Yes	20	75	253	Cryovial
+TCGA-44-5645	0		Sample Acquisition	TCGA-44-5645-01		United States	Yes		Yes	5	80	295	Cryovial
+TCGA-44-6144	0		Sample Acquisition	TCGA-44-6144-01		United States	Yes		Yes	5	85	200	Cryovial
+TCGA-44-6145	0		Sample Acquisition	TCGA-44-6145-01		United States	Yes		Yes	5	85	396	Cryovial
+TCGA-44-6146	0		Sample Acquisition	TCGA-44-6146-01		United States	Yes		Yes	5	80	545	Cryovial
+TCGA-44-6148	0		Sample Acquisition	TCGA-44-6148-01		United States	Yes		Yes	5	85	356	Cryovial
+TCGA-44-6774	39		Sample Acquisition	TCGA-44-6774-01	Tumor Resection	United States	Yes		Yes	5	90	200	Cryovial
+TCGA-44-6775	43		Sample Acquisition	TCGA-44-6775-01	Tumor Resection	United States	Yes		Yes	5	90	245	Cryovial
+TCGA-44-6776	73		Sample Acquisition	TCGA-44-6776-01	Tumor Resection	United States	Yes		Yes	5	80	269	Cryovial
+TCGA-44-6777	0		Sample Acquisition	TCGA-44-6777-01	Tumor Resection	United States	Yes		Yes	10	90	429	Cryovial
+TCGA-44-6778	0		Sample Acquisition	TCGA-44-6778-01	Tumor Resection	United States	Yes		Yes	10	90	260	Cryovial
+TCGA-44-6779	43		Sample Acquisition	TCGA-44-6779-01	Tumor Resection	United States	Yes		Yes	5	95	362	Cryovial
+TCGA-44-7659	132		Sample Acquisition	TCGA-44-7659-01		United States	Yes		Yes	5	90	295	Cryovial
+TCGA-44-7660	0		Sample Acquisition	TCGA-44-7660-01		United States	Yes		Yes	5	80	286	Cryovial
+TCGA-44-7661	35		Sample Acquisition	TCGA-44-7661-01		United States	Yes		Yes	5	80	303	Cryovial
+TCGA-44-7662	0		Sample Acquisition	TCGA-44-7662-01		United States	Yes		Yes	5	95	118	Cryovial
+TCGA-44-7667	35		Sample Acquisition	TCGA-44-7667-01		United States	Yes		Yes	40	50	500	Cryovial
+TCGA-44-7669	74		Sample Acquisition	TCGA-44-7669-01		United States	Yes		Yes	20	50	815	Cryovial
+TCGA-44-7670	0		Sample Acquisition	TCGA-44-7670-01		United States	Yes		Yes	5	50	708	Cryovial
+TCGA-44-7671	43		Sample Acquisition	TCGA-44-7671-01		United States	Yes		Yes	10	40	176	Cryovial
+TCGA-44-7672	0		Sample Acquisition	TCGA-44-7672-01		United States	Yes		Yes	5	50	439	Cryovial
+TCGA-44-8117	49		Sample Acquisition	TCGA-44-8117-01		United States	Yes	No	Yes	10	90	217	Cryovial
+TCGA-44-8119	0		Sample Acquisition	TCGA-44-8119-01		United States	Yes	No	Yes	15	85	1327	Cryovial
+TCGA-44-8120	29		Sample Acquisition	TCGA-44-8120-01		United States	Yes	Yes	Yes	10	50	218	Cryovial
+TCGA-44-A4SS	0		Sample Acquisition	TCGA-44-A4SS-01	Tumor Resection	United States	Yes	No	Yes	15	75	207	Cryovial
+TCGA-44-A4SU	25		Sample Acquisition	TCGA-44-A4SU-01		United States	Yes	No	Yes	5	95	162	Cryovial
+TCGA-44-A47A	0		Sample Acquisition	TCGA-44-A47A-01		United States	Yes	No	Yes	5	90	348	Cryovial
+TCGA-44-A47B	0		Sample Acquisition	TCGA-44-A47B-01		United States	Yes	No	Yes	5	95	100	Cryovial
+TCGA-44-A47F	51		Sample Acquisition	TCGA-44-A47F-01		United States	Yes	Yes	Yes	5	50	386	Cryovial
+TCGA-44-A47G	0		Sample Acquisition	TCGA-44-A47G-01		United States	Yes	No	Yes	5	60	200	Cryovial
+TCGA-44-A479	31		Sample Acquisition	TCGA-44-A479-01		United States	Yes	No	Yes	5	90	286	Cryovial
+TCGA-49-4486	7		Sample Acquisition	TCGA-49-4486-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4487	0		Sample Acquisition	TCGA-49-4487-01		United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4488	0		Sample Acquisition	TCGA-49-4488-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4490	8		Sample Acquisition	TCGA-49-4490-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4494	0		Sample Acquisition	TCGA-49-4494-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4501	103		Sample Acquisition	TCGA-49-4501-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4505	21		Sample Acquisition	TCGA-49-4505-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4506	29		Sample Acquisition	TCGA-49-4506-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4507	8		Sample Acquisition	TCGA-49-4507-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4510	0		Sample Acquisition	TCGA-49-4510-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4512	0		Sample Acquisition	TCGA-49-4512-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-4514	0		Sample Acquisition	TCGA-49-4514-01	Tumor Resection	United States	Yes		Yes	20	80	200	Cryovial
+TCGA-49-6742	-8		Sample Acquisition	TCGA-49-6742-01	Tumor Resection	United States	Yes		Yes	0	60	500	Cryovial
+TCGA-49-6743	0		Sample Acquisition	TCGA-49-6743-01	Tumor Resection	United States	Yes		Yes	0	75	268	Cryovial
+TCGA-49-6744	0		Sample Acquisition	TCGA-49-6744-01	Tumor Resection	United States	Yes		Yes	0	60	600	Cryovial
+TCGA-49-6745	0		Sample Acquisition	TCGA-49-6745-01	Tumor Resection	United States	Yes		Yes	0	75	300	Cryovial
+TCGA-49-6761	0		Sample Acquisition	TCGA-49-6761-01	Tumor Resection	United States	Yes		Yes	0	60	600	Cryovial
+TCGA-49-6767	0		Sample Acquisition	TCGA-49-6767-01	Tumor Resection	United States	Yes		Yes	0	80	400	Cryovial
+TCGA-49-AAQV	-2		Sample Acquisition	TCGA-49-AAQV-01	Tumor Resection	United States	Yes	No	Yes	0	75	169	Cryovial
+TCGA-49-AAR0	0		Sample Acquisition	TCGA-49-AAR0-01	Tumor Resection	United States	Yes	No	Yes	0	80	222	Cryovial
+TCGA-49-AAR2	0		Sample Acquisition	TCGA-49-AAR2-01	Tumor Resection	United States	Yes	No	Yes	0	70	231	Cryovial
+TCGA-49-AAR3	0		Sample Acquisition	TCGA-49-AAR3-01	Tumor Resection	United States	Yes	No	Yes	0	70	385	Cryovial
+TCGA-49-AAR4	0		Sample Acquisition	TCGA-49-AAR4-01	Tumor Resection	United States	Yes	No	Yes	0	75	231	Cryovial
+TCGA-49-AAR9	0		Sample Acquisition	TCGA-49-AAR9-01	Tumor Resection	United States	Yes	No	Yes	0	75	762	Cryovial
+TCGA-49-AARE	0		Sample Acquisition	TCGA-49-AARE-01	Tumor Resection	United States	Yes	No	Yes	0	70	514	Cryovial
+TCGA-49-AARN	0		Sample Acquisition	TCGA-49-AARN-01	Tumor Resection	United States	Yes	No	Yes	0	75	228	Cryovial
+TCGA-49-AARO	0		Sample Acquisition	TCGA-49-AARO-01	Tumor Resection	United States	Yes	No	Yes	0	65	207	Cryovial
+TCGA-49-AARQ	0		Sample Acquisition	TCGA-49-AARQ-01	Tumor Resection	United States	Yes	No	Yes	0	75	162	Cryovial
+TCGA-49-AARR	0		Sample Acquisition	TCGA-49-AARR-01	Tumor Resection	United States	Yes	No	Yes	0	80	164	Cryovial
+TCGA-50-5044	3		Sample Acquisition	TCGA-50-5044-01	Tumor Resection	United States	Yes		Yes	30	70	670	Specimen Storage Bag
+TCGA-50-5045	63		Sample Acquisition	TCGA-50-5045-01	Tumor Resection	United States	Yes		Yes	30	70	750	Specimen Storage Bag
+TCGA-50-5049	0		Sample Acquisition	TCGA-50-5049-01	Tumor Resection	United States	Yes		Yes	30	70	620	Specimen Storage Bag
+TCGA-50-5051	33		Sample Acquisition	TCGA-50-5051-01	Tumor Resection	United States	Yes		Yes	30	70	320	Specimen Storage Bag
+TCGA-50-5055	0		Sample Acquisition	TCGA-50-5055-01	Tumor Resection	United States	Yes		Yes	30	70	450	Specimen Storage Bag
+TCGA-50-5066	63		Sample Acquisition	TCGA-50-5066-01	Tumor Resection	United States	Yes		Yes	30	70	300	Specimen Storage Bag
+TCGA-50-5068	36		Sample Acquisition	TCGA-50-5068-01	Tumor Resection	United States	Yes		Yes	30	70	500	Specimen Storage Bag
+TCGA-50-5072	127		Sample Acquisition	TCGA-50-5072-01	Tumor Resection	United States	Yes		Yes	30	70	300	Specimen Storage Bag
+TCGA-50-5930	0		Sample Acquisition	TCGA-50-5930-01	Tumor Resection	United States	Yes		Yes	5	70	590	Biospecimen Storage Bag
+TCGA-50-5931	29		Sample Acquisition	TCGA-50-5931-01	Tumor Resection	United States	Yes		Yes	5	80	460	Biospecimen Storage Bag
+TCGA-50-5932	68		Sample Acquisition	TCGA-50-5932-01	Tumor Resection	United States	Yes		Yes	0	90	730	Biospecimen Storage Bag
+TCGA-50-5933	97		Sample Acquisition	TCGA-50-5933-01	Tumor Resection	United States	Yes		Yes	3	70	370	Biospecimen Storage Bag
+TCGA-50-5935	0		Sample Acquisition	TCGA-50-5935-01	Tumor Resection	United States	Yes		Yes	5	70	280	Biospecimen Storage Bag
+TCGA-50-5936	97		Sample Acquisition	TCGA-50-5936-01	Tumor Resection	United States	Yes		Yes	10	60	180	Biospecimen Storage Bag
+TCGA-50-5939	0		Sample Acquisition	TCGA-50-5939-01	Tumor Resection	United States	Yes		Yes	10	60	250	Biospecimen Storage Bag
+TCGA-50-5941	0		Sample Acquisition	TCGA-50-5941-01	Tumor Resection	United States	Yes		Yes	0	70	150	Biospecimen Storage Bag
+TCGA-50-5942	52		Sample Acquisition	TCGA-50-5942-01	Tumor Resection	United States	Yes		Yes	5	80	150	Biospecimen Storage Bag
+TCGA-50-5944	0		Sample Acquisition	TCGA-50-5944-01	Tumor Resection	United States	Yes		Yes	0	80	150	Biospecimen Storage Bag
+TCGA-50-5946	0		Sample Acquisition	TCGA-50-5946-01	Tumor Resection	United States	Yes		Yes	0	80	410	Biospecimen Storage Bag
+TCGA-50-6590	8		Sample Acquisition	TCGA-50-6590-01	Tumor Resection	United States	Yes		Yes	10	85	250	Biospecimen Storage Bag
+TCGA-50-6591	34		Sample Acquisition	TCGA-50-6591-01	Tumor Resection	United States	Yes		Yes	20	70	350	Biospecimen Storage Bag
+TCGA-50-6592	35		Sample Acquisition	TCGA-50-6592-01	Tumor Resection	United States	Yes		Yes	25	75	450	Biospecimen Storage Bag
+TCGA-50-6593	126		Sample Acquisition	TCGA-50-6593-01	Tumor Resection	United States	Yes		Yes	5	60	100	Biospecimen Storage Bag
+TCGA-50-6594	0		Sample Acquisition	TCGA-50-6594-01	Tumor Resection	United States	Yes		Yes	10	70	250	Biospecimen Storage Bag
+TCGA-50-6595	49		Sample Acquisition	TCGA-50-6595-01	Tumor Resection	United States	Yes		Yes	25	60	300	Biospecimen Storage Bag
+TCGA-50-6597	43		Sample Acquisition	TCGA-50-6597-01	Tumor Resection	United States	Yes		Yes	0	85	100	Biospecimen Storage Bag
+TCGA-50-6673	0		Sample Acquisition	TCGA-50-6673-01	Tumor Resection	United States	Yes		Yes	2	85	280	Biospecimen Storage Bag
+TCGA-50-7109	0		Sample Acquisition	TCGA-50-7109-01	Tumor Resection	United States	Yes		Yes	0	70	230	Biospecimen Storage Bag
+TCGA-50-8457	26		Sample Acquisition	TCGA-50-8457-01	Tumor Resection	United States	Yes	No	Yes	10	70	220	Other
+TCGA-50-8459	27		Sample Acquisition	TCGA-50-8459-01	Tumor Resection	United States	Yes	Yes	Yes	0	40	510	Other
+TCGA-50-8460	49		Sample Acquisition	TCGA-50-8460-01	Tumor Resection	United States	Yes	No	Yes	0	70	230	Other
+TCGA-53-7624	40		Sample Acquisition	TCGA-53-7624-01		United States	Yes		Yes	0	70	150	Polypropylene Tube
+TCGA-53-7626	0		Sample Acquisition	TCGA-53-7626-01	Tumor Resection	United States	Yes		Yes	0	70	150	Polypropylene Tube
+TCGA-53-7813	0		Sample Acquisition	TCGA-53-7813-01	Tumor Resection	United States	Yes		Yes	0	90	150	Cassette
+TCGA-53-A4EZ	93		Sample Acquisition	TCGA-53-A4EZ-01	Tumor Resection	United States	Yes	No	Yes	0	70	200	Cryomold
+TCGA-55-1592	0		Sample Acquisition	TCGA-55-1592-01	Tumor Resection	United States	Yes		No	15	80		Cryovial
+TCGA-55-1594	0		Sample Acquisition	TCGA-55-1594-01	Tumor Resection	United States	Yes		No		90		Cryovial
+TCGA-55-1595	0		Sample Acquisition	TCGA-55-1595-01	Tumor Resection	United States	Yes		No	0	90		Cryovial
+TCGA-55-1596	0		Sample Acquisition	TCGA-55-1596-01	Tumor Resection	United States	Yes		No	20	80		Cryovial
+TCGA-55-5899	83		Sample Acquisition	TCGA-55-5899-01	Tumor Resection	United States	Yes		Yes	10	80	123	Cryovial
+TCGA-55-6543	0		Sample Acquisition	TCGA-55-6543-01	Tumor Resection	United States	Yes		Yes	20	70	124	Cryovial
+TCGA-55-6642	0		Sample Acquisition	TCGA-55-6642-01	Tumor Resection	United States	Yes		Yes	0	70	115	Cryovial
+TCGA-55-6712	21		Sample Acquisition	TCGA-55-6712-01	Tumor Resection	United States	Yes		Yes	0	60	152	Cryovial
+TCGA-55-6968	0		Sample Acquisition	TCGA-55-6968-01	Tumor Resection	United States	Yes		Yes	2	70	22	Cryovial
+TCGA-55-6969	39		Sample Acquisition	TCGA-55-6969-01	Tumor Resection	United States	Yes		Yes	7	80	119	Cryovial
+TCGA-55-6970	30		Sample Acquisition	TCGA-55-6970-01	Tumor Resection	United States	Yes		Yes	0	80	116	Cryovial
+TCGA-55-6971	23		Sample Acquisition	TCGA-55-6971-01	Tumor Resection	United States	Yes		Yes	2	70	153	Cryovial
+TCGA-55-6972	9		Sample Acquisition	TCGA-55-6972-01	Tumor Resection	United States	Yes		Yes	15	85	40	Cryovial
+TCGA-55-6975	0		Sample Acquisition	TCGA-55-6975-01	Tumor Resection	United States	Yes		Yes	5	65	12	Cryovial
+TCGA-55-6978	19		Sample Acquisition	TCGA-55-6978-01	Tumor Resection	United States	Yes		Yes	5	60	90	Cryovial
+TCGA-55-6979	14		Sample Acquisition	TCGA-55-6979-01	Tumor Resection	United States	Yes		Yes	5	70	107	Cryovial
+TCGA-55-6980	66		Sample Acquisition	TCGA-55-6980-01	Tumor Resection	United States	Yes		Yes	0	60	28	Cryovial
+TCGA-55-6981	0		Sample Acquisition	TCGA-55-6981-01	Tumor Resection	United States	Yes		Yes	0	72	85	Cryovial
+TCGA-55-6982	47		Sample Acquisition	TCGA-55-6982-01	Tumor Resection	United States	Yes		Yes	0	60	56	Cryovial
+TCGA-55-6983	36		Sample Acquisition	TCGA-55-6983-01	Tumor Resection	United States	Yes		Yes	0	60	47	Cryovial
+TCGA-55-6984	0		Sample Acquisition	TCGA-55-6984-01	Tumor Resection	United States	Yes		Yes	10	75	15	Cryovial
+TCGA-55-6985	90		Sample Acquisition	TCGA-55-6985-01	Tumor Resection	United States	Yes		Yes	0	60	12	Cryovial
+TCGA-55-6986	27		Sample Acquisition	TCGA-55-6986-01	Tumor Resection	United States	Yes		Yes	0	80	19	Cryovial
+TCGA-55-6987	0		Sample Acquisition	TCGA-55-6987-01	Tumor Resection	United States	Yes		Yes	1	65	19	Cryovial
+TCGA-55-7227	52		Sample Acquisition	TCGA-55-7227-01	Tumor Resection	United States	Yes		Yes	0	60	18	Cryovial
+TCGA-55-7281	14		Sample Acquisition	TCGA-55-7281-01	Tumor Resection	United States	Yes		Yes	10	65	29	Cryovial
+TCGA-55-7283	33		Sample Acquisition	TCGA-55-7283-01	Tumor Resection	United States	Yes		Yes	0	65	12	Cryovial
+TCGA-55-7570	6		Sample Acquisition	TCGA-55-7570-01	Tumor Resection	United States	Yes		Yes	10	60	20	Cryovial
+TCGA-55-7573	0		Sample Acquisition	TCGA-55-7573-01	Tumor Resection	United States	Yes		No	0	65	94	Cryovial
+TCGA-55-7574	91		Sample Acquisition	TCGA-55-7574-01	Tumor Resection	United States	Yes		No	0	60	170	Cryovial
+TCGA-55-7576	34		Sample Acquisition	TCGA-55-7576-01	Tumor Resection	United States	Yes		Yes	0	60	15	Cryovial
+TCGA-55-7724	0		Sample Acquisition	TCGA-55-7724-01	Excisional Biopsy	United States	Yes		Yes	0	80	26	Cryovial
+TCGA-55-7725	34		Sample Acquisition	TCGA-55-7725-01	Tumor Resection	United States	Yes		Yes	0	65	30	Cryovial
+TCGA-55-7726	36		Sample Acquisition	TCGA-55-7726-01	Tumor Resection	United States	Yes		Yes	0	60	35	Cryovial
+TCGA-55-7727	33		Sample Acquisition	TCGA-55-7727-01	Tumor Resection	United States	Yes		Yes	3	65	26	Cryovial
+TCGA-55-7728	22		Sample Acquisition	TCGA-55-7728-01	Tumor Resection	United States	Yes		Yes	0	70	217	Cryovial
+TCGA-55-7815	34		Sample Acquisition	TCGA-55-7815-01	Tumor Resection	United States	Yes		Yes	2	80	120	Cryovial
+TCGA-55-7816	44		Sample Acquisition	TCGA-55-7816-01	Tumor Resection	United States	Yes		Yes	0	70	35	Cryovial
+TCGA-55-7903	16		Sample Acquisition	TCGA-55-7903-01	Tumor Resection	United States	Yes	No	Yes	5	80	22	Cryovial
+TCGA-55-7907	16		Sample Acquisition	TCGA-55-7907-01	Tumor Resection	United States	Yes	No	Yes	0	65	15	Cryovial
+TCGA-55-7910	203		Sample Acquisition	TCGA-55-7910-01	Tumor Resection	United States	Yes	No	Yes	10	75	220	Cryovial
+TCGA-55-7911	19		Sample Acquisition	TCGA-55-7911-01	Tumor Resection	United States	Yes	No	Yes	0	80	75	Cryovial
+TCGA-55-7914	0		Sample Acquisition	TCGA-55-7914-01	Tumor Resection	United States	Yes	No	Yes	0	60	13	Cryovial
+TCGA-55-7994	29		Sample Acquisition	TCGA-55-7994-01	Tumor Resection	United States	Yes	No	Yes	10	70	156	Cryovial
+TCGA-55-7995	0		Sample Acquisition	TCGA-55-7995-01	Tumor Resection	United States	Yes	No	Yes	8	65	96	Cryovial
+TCGA-55-8085	27		Sample Acquisition	TCGA-55-8085-01	Tumor Resection	United States	Yes	No	Yes	0	80	63	Cryovial
+TCGA-55-8087	18		Sample Acquisition	TCGA-55-8087-01	Tumor Resection	United States	Yes	No	Yes	0	65	198	Cryovial
+TCGA-55-8089	97		Sample Acquisition	TCGA-55-8089-01	Tumor Resection	United States	Yes	No	Yes	5	60	6	Cryovial
+TCGA-55-8090	0		Sample Acquisition	TCGA-55-8090-01	Tumor Resection	United States	Yes	No	Yes	5	75	58	Cryovial
+TCGA-55-8091	41		Sample Acquisition	TCGA-55-8091-01	Tumor Resection	United States	Yes	No	Yes	2	75	165	Cryovial
+TCGA-55-8092	15		Sample Acquisition	TCGA-55-8092-01	Tumor Resection	United States	Yes	No	Yes	0	65	150	Cryovial
+TCGA-55-8094	0		Sample Acquisition	TCGA-55-8094-01	Tumor Resection	United States	Yes	No	Yes	20	85	21	Cryovial
+TCGA-55-8096	43		Sample Acquisition	TCGA-55-8096-01	Tumor Resection	United States	Yes	No	Yes	5	65	154	Cryovial
+TCGA-55-8097	13		Sample Acquisition	TCGA-55-8097-01	Tumor Resection	United States	Yes	No	Yes	0	65	19	Cryovial
+TCGA-55-8203	0		Sample Acquisition	TCGA-55-8203-01	Tumor Resection	United States	Yes	No	No	0	75	41	Cryovial
+TCGA-55-8204	0		Sample Acquisition	TCGA-55-8204-01	Tumor Resection	United States	Yes	No	No	5	60	13	Cryovial
+TCGA-55-8205	31		Sample Acquisition	TCGA-55-8205-01	Tumor Resection	United States	Yes	No	Yes	0	75	282	Cryovial
+TCGA-55-8206	10		Sample Acquisition	TCGA-55-8206-01	Tumor Resection	United States	Yes	No	Yes	0	65	215	Cryovial
+TCGA-55-8207	66		Sample Acquisition	TCGA-55-8207-01	Tumor Resection	United States	Yes	No	Yes	0	80	150	Cryovial
+TCGA-55-8208	0		Sample Acquisition	TCGA-55-8208-01	Tumor Resection	United States	Yes	No	Yes	0	70	91	Cryovial
+TCGA-55-8299	38		Sample Acquisition	TCGA-55-8299-01	Tumor Resection	United States	Yes	No	No	0	65	22	Cryovial
+TCGA-55-8301	41		Sample Acquisition	TCGA-55-8301-01	Tumor Resection	United States	Yes	No	No	0	60	34	Cryovial
+TCGA-55-8302	0		Sample Acquisition	TCGA-55-8302-01	Tumor Resection	United States	Yes	No	No	2	80	22	Cryovial
+TCGA-55-8505	29		Sample Acquisition	TCGA-55-8505-01	Tumor Resection	United States	Yes	No	Yes	2	65	156	Cryovial
+TCGA-55-8506	6		Sample Acquisition	TCGA-55-8506-01	Tumor Resection	United States	Yes	No	Yes	5	80	134	Cryovial
+TCGA-55-8507	5		Sample Acquisition	TCGA-55-8507-01	Tumor Resection	United States	Yes	No	Yes	0	80	142	Cryovial
+TCGA-55-8508	15		Sample Acquisition	TCGA-55-8508-01	Tumor Resection	United States	Yes	No	Yes	0	65	221	Cryovial
+TCGA-55-8510	72		Sample Acquisition	TCGA-55-8510-01	Tumor Resection	United States	Yes	No	Yes	0	75	222	Cryovial
+TCGA-55-8511	0		Sample Acquisition	TCGA-55-8511-01	Tumor Resection	United States	Yes	No	Yes	0	75	200	Cryovial
+TCGA-55-8512	0		Sample Acquisition	TCGA-55-8512-01	Tumor Resection	United States	Yes	No	Yes	0	75	259	Cryovial
+TCGA-55-8513	21		Sample Acquisition	TCGA-55-8513-01	Tumor Resection	United States	Yes	No	Yes	0	80	208	Cryovial
+TCGA-55-8514	58		Sample Acquisition	TCGA-55-8514-01	Tumor Resection	United States	Yes	No	No	0	65	40	Cryovial
+TCGA-55-8614	36		Sample Acquisition	TCGA-55-8614-01	Tumor Resection	United States	Yes	No	No	5	75	69	Cryovial
+TCGA-55-8615	13		Sample Acquisition	TCGA-55-8615-01	Tumor Resection	United States	Yes	No	Yes	20	75	234	Cryovial
+TCGA-55-8616	35		Sample Acquisition	TCGA-55-8616-01	Tumor Resection	United States	Yes	No	No	0	80	31	Cryovial
+TCGA-55-8619	48		Sample Acquisition	TCGA-55-8619-01	Tumor Resection	United States	Yes	No	Yes	5	60	186	Cryovial
+TCGA-55-8620	62		Sample Acquisition	TCGA-55-8620-01	Tumor Resection	United States	Yes	No	Yes	5	80	158	Cryovial
+TCGA-55-8621	104		Sample Acquisition	TCGA-55-8621-01	Tumor Resection	United States	Yes	No	Yes	0	61	154	Cryovial
+TCGA-55-A4DF	22		Sample Acquisition	TCGA-55-A4DF-01	Tumor Resection	United States	Yes	No	Yes	0	60	75	Cryovial
+TCGA-55-A4DG	146		Sample Acquisition	TCGA-55-A4DG-01	Tumor Resection	United States	Yes	No	No	0	65	51	Cryovial
+TCGA-55-A48X	31		Sample Acquisition	TCGA-55-A48X-01	Fine Needle Aspiration	United States	Yes	No	No	0	70	31	Cryovial
+TCGA-55-A48Y	36		Sample Acquisition	TCGA-55-A48Y-01		United States	Yes	No	No	0	60	16	Cryovial
+TCGA-55-A48Z	27		Sample Acquisition	TCGA-55-A48Z-01	Fine Needle Aspiration	United States	Yes	No	No	0	65	78	Cryovial
+TCGA-55-A57B	21		Sample Acquisition	TCGA-55-A57B-01	Tumor Resection	United States	Yes	No	No	0	60	75	Cryovial
+TCGA-55-A490	46		Sample Acquisition	TCGA-55-A490-01	Fine Needle Aspiration	United States	Yes	No	No	5	90	7	Cryovial
+TCGA-55-A491	0		Sample Acquisition	TCGA-55-A491-01	Tumor Resection	United States	Yes	No	No	12	65	13	Cryovial
+TCGA-55-A492	0		Sample Acquisition	TCGA-55-A492-01	Tumor Resection	United States	Yes	No	No	0	75	49	Cryovial
+TCGA-55-A493	0		Sample Acquisition	TCGA-55-A493-01	Tumor Resection	United States	Yes	No	No	0	65	61	Cryovial
+TCGA-55-A494	0		Sample Acquisition	TCGA-55-A494-01	Tumor Resection	United States	Yes	No	No	0	85	75	Cryovial
+TCGA-62-8394	0		Sample Acquisition	TCGA-62-8394-01	Tumor Resection	Germany	Yes	No	Yes	12	62	120	Cryovial
+TCGA-62-8395	0		Sample Acquisition	TCGA-62-8395-01	Tumor Resection	Germany	Yes	No	Yes	0	65	150	Cryovial
+TCGA-62-8397	0		Sample Acquisition	TCGA-62-8397-01	Tumor Resection	Germany	Yes	No	Yes	0	60	190	Cryovial
+TCGA-62-8398	0		Sample Acquisition	TCGA-62-8398-01	Tumor Resection	Germany	Yes	No	Yes	10	74	200	Cryovial
+TCGA-62-8399	0		Sample Acquisition	TCGA-62-8399-01	Tumor Resection	Germany	Yes	No	Yes	15	60	160	Cryovial
+TCGA-62-8402	0		Sample Acquisition	TCGA-62-8402-01	Tumor Resection	Germany	Yes	No	Yes	5	61	110	Cryovial
+TCGA-62-A46O	26		Sample Acquisition	TCGA-62-A46O-01	Tumor Resection	Germany	Yes	No	Yes	0	70	110	Cryovial
+TCGA-62-A46P	51		Sample Acquisition	TCGA-62-A46P-01	Tumor Resection	Germany	Yes	No	Yes	2	68	110	Cryovial
+TCGA-62-A46R	22		Sample Acquisition	TCGA-62-A46R-01	Tumor Resection	Germany	Yes	No	Yes	0	60	110	Cryovial
+TCGA-62-A46S	40		Sample Acquisition	TCGA-62-A46S-01	Tumor Resection	Germany	Yes	No	Yes	0	72	110	Cryovial
+TCGA-62-A46U	20		Sample Acquisition	TCGA-62-A46U-01	Tumor Resection	Germany	Yes	No	Yes	10	62	110	Cryovial
+TCGA-62-A46V	31		Sample Acquisition	TCGA-62-A46V-01	Tumor Resection	Germany	Yes	No	Yes	2	66	100	Cryovial
+TCGA-62-A46Y	63		Sample Acquisition	TCGA-62-A46Y-01	Tumor Resection	Germany	Yes	No	Yes	0	70	100	Cryovial
+TCGA-62-A470	24		Sample Acquisition	TCGA-62-A470-01	Tumor Resection	Germany	Yes	No	Yes	2	74	125	Cryovial
+TCGA-62-A471	15		Sample Acquisition	TCGA-62-A471-01	Tumor Resection	Germany	Yes	No	Yes	12	60	175	Cryovial
+TCGA-62-A472	32		Sample Acquisition	TCGA-62-A472-01	Tumor Resection	Germany	Yes	No	Yes	0	60	100	Cryovial
+TCGA-64-1676	0		Sample Acquisition	TCGA-64-1676-01	Tumor Resection	United States	Yes				80	200	Cryovial
+TCGA-64-1677	0		Sample Acquisition	TCGA-64-1677-01	Tumor Resection	United States	Yes		Yes	0	70	250	Plastic Containers
+TCGA-64-1678	0		Sample Acquisition	TCGA-64-1678-01	Tumor Resection	United States	Yes		Yes	30	70	200	Cryovial
+TCGA-64-1679	18		Sample Acquisition	TCGA-64-1679-01	Tumor Resection	United States	Yes		Yes	20	70	260	Bag
+TCGA-64-1680	0		Sample Acquisition	TCGA-64-1680-01	Tumor Resection	United States	Yes		Yes		70	200	Cryovial
+TCGA-64-1681	42		Sample Acquisition	TCGA-64-1681-01	Tumor Resection	United States	Yes		Yes	20	70	260	Bag
+TCGA-64-5774	0		Sample Acquisition	TCGA-64-5774-01	Tumor Resection	United States	Yes		Yes	5	70	200	Cryovial
+TCGA-64-5775	59		Sample Acquisition	TCGA-64-5775-01	Tumor Resection	United States	Yes		Yes	0	80	200	Cryovial
+TCGA-64-5778	0		Sample Acquisition	TCGA-64-5778-01	Tumor Resection	United States	Yes		Yes	0	75	200	Cryovial
+TCGA-64-5779	47		Sample Acquisition	TCGA-64-5779-01	Tumor Resection	United States	Yes		Yes	10	70	200	Cryovial
+TCGA-64-5781	57		Sample Acquisition	TCGA-64-5781-01	Tumor Resection	United States	Yes		Yes	0	70	200	Cryovial
+TCGA-64-5815	46		Sample Acquisition	TCGA-64-5815-01	Tumor Resection	United States	Yes		Yes	20	70	200	Cryovial
+TCGA-67-3770	50		Sample Acquisition	TCGA-67-3770-01	Tumor Resection	United States	Yes		Yes	0	90	200	Cryovial
+TCGA-67-3771	59		Sample Acquisition	TCGA-67-3771-01	Tumor Resection	United States	Yes		Yes	10	90	200	Cryovial
+TCGA-67-3772	26		Sample Acquisition	TCGA-67-3772-01	Tumor Resection	United States	Yes		Yes	5	70	200	Cryovial
+TCGA-67-3773	68		Sample Acquisition	TCGA-67-3773-01	Tumor Resection	United States	Yes		Yes	5	80	200	Cryovial
+TCGA-67-3774	18		Sample Acquisition	TCGA-67-3774-01	Tumor Resection	United States	Yes		Yes	0	80	200	Cryovial
+TCGA-67-6215	27		Sample Acquisition	TCGA-67-6215-01	Tumor Resection	United States	Yes		Yes	0	80	200	Cryovial
+TCGA-67-6216	21		Sample Acquisition	TCGA-67-6216-01	Tumor Resection	United States	Yes		Yes	5	70	200	Cassette
+TCGA-67-6217	0		Sample Acquisition	TCGA-67-6217-01	Tumor Resection	United States	Yes		Yes	0	70	200	Cryovial
+TCGA-69-7760	12		Sample Acquisition	TCGA-69-7760-01	Tumor Resection	United States	Yes		Yes	40	85	100	Cryovial
+TCGA-69-7761	42		Sample Acquisition	TCGA-69-7761-01	Tumor Resection	United States	Yes		Yes	5	60	100	Cryovial
+TCGA-69-7763	0		Sample Acquisition	TCGA-69-7763-01	Tumor Resection	United States	Yes		Yes	10	80	100	Cryovial
+TCGA-69-7764	30		Sample Acquisition	TCGA-69-7764-01	Tumor Resection	United States	Yes		Yes	5	100	100	Cryovial
+TCGA-69-7765	42		Sample Acquisition	TCGA-69-7765-01	Tumor Resection	United States	Yes		Yes	20	90	100	Cryovial
+TCGA-69-7973	22		Sample Acquisition	TCGA-69-7973-01	Tumor Resection	United States	Yes	No	Yes	5	90	100	Cryovial
+TCGA-69-7974	0		Sample Acquisition	TCGA-69-7974-01	Tumor Resection	United States	Yes	No	Yes	5	70	100	Cryovial
+TCGA-69-7978	0		Sample Acquisition	TCGA-69-7978-01	Tumor Resection	United States	Yes	No	Yes	5	80	100	Cryovial
+TCGA-69-7979	64		Sample Acquisition	TCGA-69-7979-01	Tumor Resection	United States	Yes	No	Yes	5	80	100	Cryovial
+TCGA-69-7980	26		Sample Acquisition	TCGA-69-7980-01	Tumor Resection	United States	Yes	Yes	Yes	10	50	100	Cryovial
+TCGA-69-8253	0		Sample Acquisition	TCGA-69-8253-01	Tumor Resection	United States	Yes	No	Yes	5	90	140	Cryovial
+TCGA-69-8254	0		Sample Acquisition	TCGA-69-8254-01	Tumor Resection	United States	Yes	No	Yes	5	90	290	Cryovial
+TCGA-69-8255	85		Sample Acquisition	TCGA-69-8255-01	Tumor Resection	United States	Yes	No	Yes	10	80	290	Cryovial
+TCGA-69-8453	0		Sample Acquisition	TCGA-69-8453-01	Tumor Resection	United States	Yes	Yes	Yes	9	40	180	Cryovial
+TCGA-69-A59K	10		Sample Acquisition	TCGA-69-A59K-01	Tumor Resection	United States	Yes	No	Yes	5	90	300	Cryovial
+TCGA-71-6725	61		Sample Acquisition	TCGA-71-6725-01	Tumor Resection	Vietnam	Yes		Yes	0	85	1400	Bag
+TCGA-71-8520	3		Sample Acquisition	TCGA-71-8520-01	Tumor Resection	Vietnam	Yes	No	Yes	0	65	500	Other
+TCGA-73-4658	0		Sample Acquisition	TCGA-73-4658-01	Tumor Resection	United States	Yes		Yes	0	75	300	Cryovial
+TCGA-73-4659	0		Sample Acquisition	TCGA-73-4659-01	Tumor Resection	United States	Yes		Yes	0	70	300	Cryovial
+TCGA-73-4662	0		Sample Acquisition	TCGA-73-4662-01	Tumor Resection	United States	Yes		Yes	0	90	150	Cryovial
+TCGA-73-4666	0		Sample Acquisition	TCGA-73-4666-01		United States	Yes		Yes	5	75	300	Cryovial
+TCGA-73-4668	0		Sample Acquisition	TCGA-73-4668-01		United States	Yes		Yes	0	75	450	Cryovial
+TCGA-73-4670	0		Sample Acquisition	TCGA-73-4670-01		United States	Yes		Yes	7	85	222	Cryovial
+TCGA-73-4675	0		Sample Acquisition	TCGA-73-4675-01	Tumor Resection	United States	Yes		Yes	0	90	300	Cryovial
+TCGA-73-4676	0		Sample Acquisition	TCGA-73-4676-01	Tumor Resection	United States	Yes		Yes	3	85	261	Cryovial
+TCGA-73-4677	0		Sample Acquisition	TCGA-73-4677-01		United States	Yes		Yes	0	85	170	Cryovial
+TCGA-73-7498	0		Sample Acquisition	TCGA-73-7498-01	Tumor Resection	United States	Yes		Yes	0	80	200	Cryovial
+TCGA-73-7499	1		Sample Acquisition	TCGA-73-7499-01	Tumor Resection	United States	Yes		Yes	10	70	200	Cryovial
+TCGA-73-A9RS	53		Sample Acquisition	TCGA-73-A9RS-01	Tumor Resection	United States	Yes	No	Yes	0	80	220	Cryovial
+TCGA-78-7143	0		Sample Acquisition	TCGA-78-7143-01	Tumor Resection	Australia	Yes		Yes	0	60	225	Cryovial
+TCGA-78-7145	0		Sample Acquisition	TCGA-78-7145-01	Tumor Resection	Australia	Yes		Yes	15	66	257	Cryovial
+TCGA-78-7146	0		Sample Acquisition	TCGA-78-7146-01	Tumor Resection	Australia	Yes		Yes	25	66	131	Cryovial
+TCGA-78-7147	0		Sample Acquisition	TCGA-78-7147-01	Tumor Resection	Australia	Yes		Yes	0	70	245	Cryovial
+TCGA-78-7148	0		Sample Acquisition	TCGA-78-7148-01	Tumor Resection	Australia	Yes		Yes	0	60	221	Cryovial
+TCGA-78-7149	0		Sample Acquisition	TCGA-78-7149-01	Tumor Resection	Australia	Yes		Yes	0	70	265	Cryovial
+TCGA-78-7150	0		Sample Acquisition	TCGA-78-7150-01	Tumor Resection	Australia	Yes		Yes	30	60	250	Cryovial
+TCGA-78-7152	0		Sample Acquisition	TCGA-78-7152-01	Tumor Resection	Australia	Yes		Yes	0	66	240	Cryovial
+TCGA-78-7153	0		Sample Acquisition	TCGA-78-7153-01	Tumor Resection	Australia	Yes		Yes	0	70	217	Cryovial
+TCGA-78-7154	0		Sample Acquisition	TCGA-78-7154-01	Tumor Resection	Australia	Yes		Yes	10	60	142	Cryovial
+TCGA-78-7155	0		Sample Acquisition	TCGA-78-7155-01	Tumor Resection	Australia	Yes		Yes	0	80	257	Cryovial
+TCGA-78-7156	0		Sample Acquisition	TCGA-78-7156-01	Tumor Resection	Australia	Yes		Yes	0	70	230	Cryovial
+TCGA-78-7158	0		Sample Acquisition	TCGA-78-7158-01	Tumor Resection	Australia	Yes		Yes	0	60	239	Cryovial
+TCGA-78-7159	0		Sample Acquisition	TCGA-78-7159-01	Tumor Resection	Australia	Yes		Yes	20	70	251	Cryovial
+TCGA-78-7160	0		Sample Acquisition	TCGA-78-7160-01	Tumor Resection	Australia	Yes		Yes	0	60	259	Cryovial
+TCGA-78-7161	0		Sample Acquisition	TCGA-78-7161-01	Tumor Resection	Australia	Yes		Yes	0	70	309	Cryovial
+TCGA-78-7162	0		Sample Acquisition	TCGA-78-7162-01	Tumor Resection	Australia	Yes		Yes	0	70	197	Cryovial
+TCGA-78-7163	0		Sample Acquisition	TCGA-78-7163-01	Tumor Resection	Australia	Yes		Yes	0	70	250	Cryovial
+TCGA-78-7166	0		Sample Acquisition	TCGA-78-7166-01	Tumor Resection	Australia	Yes		Yes	0	60	209	Cryovial
+TCGA-78-7167	0		Sample Acquisition	TCGA-78-7167-01	Tumor Resection	Australia	Yes		Yes	0	60	249	Cryovial
+TCGA-78-7220	0		Sample Acquisition	TCGA-78-7220-01	Tumor Resection	Australia	Yes		Yes	0	80	199	Cryovial
+TCGA-78-7535	0		Sample Acquisition	TCGA-78-7535-01	Tumor Resection	Australia	Yes		Yes	0	60	268	Cryovial
+TCGA-78-7536	0		Sample Acquisition	TCGA-78-7536-01	Tumor Resection	Australia	Yes		Yes	0	60	243	Cryovial
+TCGA-78-7537	0		Sample Acquisition	TCGA-78-7537-01	Tumor Resection	Australia	Yes		Yes	0	60	177	Cryovial
+TCGA-78-7539	0		Sample Acquisition	TCGA-78-7539-01	Tumor Resection	Australia	Yes		Yes	0	60	210	Cryovial
+TCGA-78-7540	0		Sample Acquisition	TCGA-78-7540-01	Tumor Resection	Australia	Yes		Yes	0	60	249	Cryovial
+TCGA-78-7542	0		Sample Acquisition	TCGA-78-7542-01	Tumor Resection	Australia	Yes		Yes	20	80	268	Cryovial
+TCGA-78-7633	0		Sample Acquisition	TCGA-78-7633-01	Tumor Resection	Australia	Yes		Yes	0	60	272	Cryovial
+TCGA-78-8640	0		Sample Acquisition	TCGA-78-8640-01	Tumor Resection	Australia	Yes	Yes	Yes	5	40	146	Cryovial
+TCGA-78-8648	0		Sample Acquisition	TCGA-78-8648-01	Tumor Resection	Australia	Yes	Yes	Yes	0	50	272	Cryovial
+TCGA-78-8655	0		Sample Acquisition	TCGA-78-8655-01	Tumor Resection	Australia	Yes	Yes	Yes	0	20	251	Cryovial
+TCGA-78-8660	0		Sample Acquisition	TCGA-78-8660-01	Tumor Resection	Australia	Yes	Yes	Yes	60	30	194	Cryovial
+TCGA-78-8662	0		Sample Acquisition	TCGA-78-8662-01	Tumor Resection	Australia	Yes	No	Yes	0	70	122	Cryovial
+TCGA-83-5908	0		Sample Acquisition	TCGA-83-5908-01	Tumor Resection	United States	Yes		Yes	5	75	520	Cryovial
+TCGA-86-6562	0		Sample Acquisition	TCGA-86-6562-01	Tumor Resection	Russia	Yes		Yes	8	72	1196	Cassette
+TCGA-86-6851	0		Sample Acquisition	TCGA-86-6851-01	Tumor Resection	United States	Yes		Yes	0	98	149	Cassette
+TCGA-86-7701	0		Sample Acquisition	TCGA-86-7701-01	Tumor Resection	Russia	Yes		Yes	0	85	413	Cassette
+TCGA-86-7711	0		Sample Acquisition	TCGA-86-7711-01	Tumor Resection	Russia	Yes		Yes	3	82	765	Cassette
+TCGA-86-7713	0		Sample Acquisition	TCGA-86-7713-01	Tumor Resection	Russia	Yes		Yes	0	100	1104	Cassette
+TCGA-86-7714	0		Sample Acquisition	TCGA-86-7714-01	Tumor Resection	United States	Yes		Yes	0	100	312	Cassette
+TCGA-86-7953	0		Sample Acquisition	TCGA-86-7953-01	Tumor Resection	Russia	Yes	No	Yes	8	87	803	Cassette
+TCGA-86-7954	0		Sample Acquisition	TCGA-86-7954-01	Tumor Resection	United States	Yes	No	Yes	3	70	345	Cassette
+TCGA-86-7955	0		Sample Acquisition	TCGA-86-7955-01	Tumor Resection	Russia	Yes		Yes	25	63	1228	Cassette
+TCGA-86-8054	0		Sample Acquisition	TCGA-86-8054-01	Tumor Resection	Russia	Yes	No	Yes	12	65	650	Cassette
+TCGA-86-8055	0		Sample Acquisition	TCGA-86-8055-01	Tumor Resection	Russia	Yes	No	Yes	5	78	1032	Cassette
+TCGA-86-8056	0		Sample Acquisition	TCGA-86-8056-01	Tumor Resection	United States	Yes	No	Yes	0	95	364	Cassette
+TCGA-86-8073	0		Sample Acquisition	TCGA-86-8073-01	Tumor Resection	Russia	Yes	No	Yes	0	75	808	Cassette
+TCGA-86-8074	0		Sample Acquisition	TCGA-86-8074-01	Tumor Resection	Russia	Yes	No	Yes	2	85	796	Cassette
+TCGA-86-8075	0		Sample Acquisition	TCGA-86-8075-01	Tumor Resection	Russia	Yes	No	Yes	3	85	733	Cassette
+TCGA-86-8076	0		Sample Acquisition	TCGA-86-8076-01	Tumor Resection	Russia	Yes	No	Yes	0	75	584	Cassette
+TCGA-86-8278	0		Sample Acquisition	TCGA-86-8278-01	Tumor Resection	Russia	Yes	No	Yes	0	93	609	Cassette
+TCGA-86-8279	0		Sample Acquisition	TCGA-86-8279-01	Tumor Resection	Russia	Yes	No	Yes	0	95	551	Cassette
+TCGA-86-8280	0		Sample Acquisition	TCGA-86-8280-01	Tumor Resection	Russia	Yes	No	Yes	0	87	1550	Cassette
+TCGA-86-8281	0		Sample Acquisition	TCGA-86-8281-01	Excisional Biopsy	United States	Yes	No	Yes	0	90	263	Cassette
+TCGA-86-8358	0		Sample Acquisition	TCGA-86-8358-01	Tumor Resection	Russia	Yes	No	Yes	13	80	605	Cassette
+TCGA-86-8359	20		Sample Acquisition	TCGA-86-8359-01	Tumor Resection	Romania	Yes	No	Yes	0	89	2339	Cassette
+TCGA-86-8585	35		Sample Acquisition	TCGA-86-8585-01	Tumor Resection	Ukraine	Yes	No	Yes	10	65	1039	Cassette
+TCGA-86-8668	0		Sample Acquisition	TCGA-86-8668-01	Tumor Resection	Russia	Yes	No	Yes	0	100	1170	Cassette
+TCGA-86-8669	0		Sample Acquisition	TCGA-86-8669-01	Tumor Resection	Russia	Yes	No	Yes	0	100	1403	Cassette
+TCGA-86-8671	0		Sample Acquisition	TCGA-86-8671-01	Tumor Resection	Russia	Yes	No	Yes	0	95	132	Cassette
+TCGA-86-8672	15		Sample Acquisition	TCGA-86-8672-01	Tumor Resection	Ukraine	Yes	No	Yes	0	100	1295	Cassette
+TCGA-86-8673	-1		Sample Acquisition	TCGA-86-8673-01	Tumor Resection	Ukraine	Yes	No	Yes	0	95	2064	Cassette
+TCGA-86-8674	0		Sample Acquisition	TCGA-86-8674-01	Tumor Resection	Ukraine	Yes	No	Yes	0	95	1059	Cassette
+TCGA-86-A4D0	0		Sample Acquisition	TCGA-86-A4D0-01	Tumor Resection	Russia	Yes	No	Yes	0	100	1197	Cassette
+TCGA-86-A4JF	-16		Sample Acquisition	TCGA-86-A4JF-01	Tumor Resection	Romania	Yes	No	Yes	6	85	1474	Cassette
+TCGA-86-A4P7	0		Sample Acquisition	TCGA-86-A4P7-01	Tumor Resection	Russia	Yes	No	Yes	0	95	300	Cassette
+TCGA-86-A4P8	-3		Sample Acquisition	TCGA-86-A4P8-01	Tumor Resection	United States	Yes	No	Yes	0	65	350	Cassette
+TCGA-86-A456	3		Sample Acquisition	TCGA-86-A456-01	Tumor Resection	Vietnam	Yes	No	Yes	0	60	830	Cassette
+TCGA-91-6828	38		Sample Acquisition	TCGA-91-6828-01	Tumor Resection	United States	Yes		Yes	5	80	300	Cryovial
+TCGA-91-6829	52		Sample Acquisition	TCGA-91-6829-01	Tumor Resection	United States	Yes		No	30	70	100	Cryovial
+TCGA-91-6830	0		Sample Acquisition	TCGA-91-6830-01	Tumor Resection	United States	Yes		No	20	80	180	Cryovial
+TCGA-91-6831	39		Sample Acquisition	TCGA-91-6831-01	Tumor Resection	United States	Yes		No	15	70	120	Cryovial
+TCGA-91-6835	35		Sample Acquisition	TCGA-91-6835-01	Tumor Resection	United States	Yes		No	0	75	100	Cryovial
+TCGA-91-6836	11		Sample Acquisition	TCGA-91-6836-01	Tumor Resection	United States	Yes		No	0	60	150	Cryovial
+TCGA-91-6840	0		Sample Acquisition	TCGA-91-6840-01	Tumor Resection	United States	Yes		Yes	0	85	100	Cryovial
+TCGA-91-6847	24		Sample Acquisition	TCGA-91-6847-01	Tumor Resection	United States	Yes		No	30	60	130	Cryovial
+TCGA-91-6848	55		Sample Acquisition	TCGA-91-6848-01	Tumor Resection	United States	Yes		No	20	80	150	Cryovial
+TCGA-91-6849	28		Sample Acquisition	TCGA-91-6849-01	Tumor Resection	United States	Yes		No	0	90	150	Cryovial
+TCGA-91-7771	31		Sample Acquisition	TCGA-91-7771-01	Tumor Resection	United States	Yes		Yes	0	80	870	Cryovial
+TCGA-91-8496	30		Sample Acquisition	TCGA-91-8496-01	Tumor Resection	United States	Yes	No	Yes	0	85	180	Cryovial
+TCGA-91-8497	0		Sample Acquisition	TCGA-91-8497-01	Tumor Resection	United States	Yes	No	Yes	0	70	290	Cryovial
+TCGA-91-8499	0		Sample Acquisition	TCGA-91-8499-01	Tumor Resection	United States	Yes	Yes	Yes	40	50	230	Cryovial
+TCGA-91-A4BC	8		Sample Acquisition	TCGA-91-A4BC-01	Tumor Resection	United States	Yes	No	Yes	15	70	290	Cryovial
+TCGA-91-A4BD	0		Sample Acquisition	TCGA-91-A4BD-01	Tumor Resection	United States	Yes	No	Yes	0	80	230	Cryovial
+TCGA-93-7347	0		Sample Acquisition	TCGA-93-7347-01	Tumor Resection	United States	Yes		No	0	60	150	Foil And Plastic Bag
+TCGA-93-7348	0		Sample Acquisition	TCGA-93-7348-01	Tumor Resection	United States	Yes		Yes	0	60	150	Foil And Plastic Bags
+TCGA-93-8067	0		Sample Acquisition	TCGA-93-8067-01	Tumor Resection	United States	Yes	Yes	Yes	0	70	270	Foil And Plastic Bag
+TCGA-93-A4JN	0		Sample Acquisition	TCGA-93-A4JN-01	Tumor Resection	United States	Yes	Yes	Yes	0	50	440	Other
+TCGA-93-A4JO	0		Sample Acquisition	TCGA-93-A4JO-01	Tumor Resection	United States	Yes	Yes	Yes	0	25	410	Other
+TCGA-93-A4JP	0		Sample Acquisition	TCGA-93-A4JP-01	Tumor Resection	United States	Yes	Yes	Yes	1	65	560	Other
+TCGA-93-A4JQ	0		Sample Acquisition	TCGA-93-A4JQ-01	Tumor Resection	United States	Yes	Yes	Yes	0	20	240	Other
+TCGA-95-7039	0		Sample Acquisition	TCGA-95-7039-01	Tumor Resection	United States	Yes		Yes	5	80	100	Cassette
+TCGA-95-7043	0		Sample Acquisition	TCGA-95-7043-01	Tumor Resection	United States	Yes		Yes	5	75	100	Cassette
+TCGA-95-7562	0		Sample Acquisition	TCGA-95-7562-01	Tumor Resection	United States	Yes		Yes	30	100	100	Cassette
+TCGA-95-7567	29		Sample Acquisition	TCGA-95-7567-01	Tumor Resection	United States	Yes		Yes	0	100	100	Cassette
+TCGA-95-7944	0		Sample Acquisition	TCGA-95-7944-01	Tumor Resection	United States	Yes		Yes	30	70	100	Cryomold
+TCGA-95-7947	0		Sample Acquisition	TCGA-95-7947-01	Tumor Resection	United States	Yes		Yes	10	85	100	Cryomold
+TCGA-95-7948	0		Sample Acquisition	TCGA-95-7948-01	Tumor Resection	United States	Yes		Yes	5	55	100	Cryomold
+TCGA-95-8039	0		Sample Acquisition	TCGA-95-8039-01	Tumor Resection	United States	Yes	No	Yes	5	80	100	Cryomold
+TCGA-95-8494	71		Sample Acquisition	TCGA-95-8494-01	Tumor Resection	United States	Yes	No	Yes	10	85	100	Otc Wrapped In Foil
+TCGA-95-A4VK	9		Sample Acquisition	TCGA-95-A4VK-01	Tumor Resection	United States	Yes	No	Yes	0	85	150	Cryomold
+TCGA-95-A4VN	0		Sample Acquisition	TCGA-95-A4VN-01	Tumor Resection	United States	Yes	No	Yes	5	100	150	Cryomold
+TCGA-95-A4VP	0		Sample Acquisition	TCGA-95-A4VP-01	Tumor Resection	United States	Yes	No	Yes	0	60	150	Cryomold
+TCGA-97-7546	0		Sample Acquisition	TCGA-97-7546-01	Tumor Resection	United States	Yes		Yes	0	60		Cryomold
+TCGA-97-7547	0		Sample Acquisition	TCGA-97-7547-01		United States	Yes		Yes	0	60		Cryomold
+TCGA-97-7552	0		Sample Acquisition	TCGA-97-7552-01	Tumor Resection	United States	Yes		Yes	0	60		Cryomold
+TCGA-97-7553	0		Sample Acquisition	TCGA-97-7553-01	Tumor Resection	United States	Yes		Yes	0	60		Cryomold
+TCGA-97-7554	0		Sample Acquisition	TCGA-97-7554-01	Tumor Resection	United States	Yes		Yes	0	60		Cryomold
+TCGA-97-7937	0		Sample Acquisition	TCGA-97-7937-01	Tumor Resection	United States	Yes		Yes	0	60	100	Cryomold
+TCGA-97-7938	0		Sample Acquisition	TCGA-97-7938-01	Tumor Resection	United States	Yes		Yes	0	60	100	Cryomold
+TCGA-97-7941	0		Sample Acquisition	TCGA-97-7941-01	Tumor Resection	United States	Yes		Yes	0	60	100	Cryomold
+TCGA-97-8171	0		Sample Acquisition	TCGA-97-8171-01		United States	Yes	No	Yes	0	60	530	Cryomold
+TCGA-97-8172	0		Sample Acquisition	TCGA-97-8172-01		United States	Yes	Yes	Yes	0	50	440	Cryomold
+TCGA-97-8174	0		Sample Acquisition	TCGA-97-8174-01		United States	Yes	No	Yes	0	60	800	Cryomold
+TCGA-97-8175	0		Sample Acquisition	TCGA-97-8175-01		United States	Yes	No	Yes	0	60	530	Cryomold
+TCGA-97-8176	0		Sample Acquisition	TCGA-97-8176-01		United States	Yes	No	Yes	0	60	1670	Cryomold
+TCGA-97-8177	0		Sample Acquisition	TCGA-97-8177-01		United States	Yes	No	Yes	0	60	400	Cryomold
+TCGA-97-8179	0		Sample Acquisition	TCGA-97-8179-01	Tumor Resection	United States	Yes	Yes	Yes	0	50	200	Cryomold
+TCGA-97-8547	0		Sample Acquisition	TCGA-97-8547-01		United States	Yes	No	Yes	0	60	250	Cryomold
+TCGA-97-8552	0		Sample Acquisition	TCGA-97-8552-01		United States	Yes	No	Yes	0	60	200	Cryomold
+TCGA-97-A4LX	0		Sample Acquisition	TCGA-97-A4LX-01	Tumor Resection	United States	Yes	No	Yes	0	70	100	Cryomold
+TCGA-97-A4M0	0		Sample Acquisition	TCGA-97-A4M0-01		United States	Yes	No	Yes	0	60	250	Cryomold
+TCGA-97-A4M1	0		Sample Acquisition	TCGA-97-A4M1-01		United States	Yes	No	Yes	0	60	100	Cryomold
+TCGA-97-A4M2	0		Sample Acquisition	TCGA-97-A4M2-01	Tumor Resection	United States	Yes	No	Yes	0	60	220	Cryomold
+TCGA-97-A4M3	0		Sample Acquisition	TCGA-97-A4M3-01		United States	Yes	No	Yes	0	70	160	Cryomold
+TCGA-97-A4M5	0		Sample Acquisition	TCGA-97-A4M5-01	Tumor Resection	United States	Yes	No	Yes	0	60	210	Cryomold
+TCGA-97-A4M6	0		Sample Acquisition	TCGA-97-A4M6-01	Tumor Resection	United States	Yes	Yes	Yes	0	40	200	Cryomold
+TCGA-97-A4M7	0		Sample Acquisition	TCGA-97-A4M7-01	Tumor Resection	United States	Yes	No	Yes	0	60	300	Cryomold
+TCGA-99-7458	0		Sample Acquisition	TCGA-99-7458-01	Tumor Resection	United States	Yes		Yes	0	70	250	Cassette
+TCGA-99-8025	95		Sample Acquisition	TCGA-99-8025-01	Tumor Resection	United States	Yes	No	Yes	0	80	420	Cassette
+TCGA-99-8028	49		Sample Acquisition	TCGA-99-8028-01	Tumor Resection	United States	Yes	Yes	Yes	0	20	180	Cassette
+TCGA-99-8032	0		Sample Acquisition	TCGA-99-8032-01	Tumor Resection	United States	Yes	Yes	Yes	0	20	250	Cassette
+TCGA-99-8033	52		Sample Acquisition	TCGA-99-8033-01	Tumor Resection	United States	Yes	Yes	Yes	0	30	140	Cassette
+TCGA-99-AA5R	0		Sample Acquisition	TCGA-99-AA5R-01	Tumor Resection	United States	Yes	Yes	Yes	30	35	150	Cryomold
+TCGA-J2-8192	42		Sample Acquisition	TCGA-J2-8192-01	Tumor Resection	United States	Yes	No	Yes	0	100	350	50Ml Conical
+TCGA-J2-8194	32		Sample Acquisition	TCGA-J2-8194-01	Tumor Resection	United States	Yes	No	Yes	0	100	291	50Ml Conical
+TCGA-J2-A4AD	0		Sample Acquisition	TCGA-J2-A4AD-01	Tumor Resection	United States	Yes	No	Yes	0	80	187	50 Ml Conical
+TCGA-J2-A4AE	0		Sample Acquisition	TCGA-J2-A4AE-01	Tumor Resection	United States	Yes	No	Yes	10	100	156	50Ml Conical
+TCGA-J2-A4AG	0		Sample Acquisition	TCGA-J2-A4AG-01	Tumor Resection	United States	Yes	No	Yes	5	95	350	50Ml Conical
+TCGA-L4-A4E5	0		Sample Acquisition	TCGA-L4-A4E5-01	Tumor Resection	United States	Yes	No	Yes	1	65	140	Cryovial
+TCGA-L4-A4E6	0		Sample Acquisition	TCGA-L4-A4E6-01	Tumor Resection	United States	Yes	No	Yes	0	60	100	Cryovial
+TCGA-L9-A5IP	2		Sample Acquisition	TCGA-L9-A5IP-01	Tumor Resection	United States	Yes	Yes	Yes	10	40	170	Cryovial
+TCGA-L9-A7SV	0		Sample Acquisition	TCGA-L9-A7SV-01	Tumor Resection	United States	Yes	No	Yes	4	90	230	Cryovial
+TCGA-L9-A8F4	56		Sample Acquisition	TCGA-L9-A8F4-01	Tumor Resection	United States	Yes	Yes	Yes	5	50	215	Cryovial
+TCGA-L9-A50W	148		Sample Acquisition	TCGA-L9-A50W-01	Tumor Resection	United States	Yes	No	Yes	0	90	230	Cryovial
+TCGA-L9-A443	33		Sample Acquisition	TCGA-L9-A443-01	Tumor Resection	United States	Yes	No	Yes	0	70	230	Cryovial
+TCGA-L9-A444	0		Sample Acquisition	TCGA-L9-A444-01	Tumor Resection	United States	Yes	No	Yes	0	80	160	Cryovial
+TCGA-L9-A743	78		Sample Acquisition	TCGA-L9-A743-01	Tumor Resection	United States	Yes	Yes	Yes	1	30	530	Cryovial
+TCGA-MN-A4N1	41		Sample Acquisition	TCGA-MN-A4N1-01		United States	Yes	No	Yes	0	60	184	Cryomold
+TCGA-MN-A4N4	-10		Sample Acquisition	TCGA-MN-A4N4-01	Tumor Resection	United States	Yes	No	Yes	0	60	242	Cryomold
+TCGA-MN-A4N5	56		Sample Acquisition	TCGA-MN-A4N5-01		United States	Yes	No	Yes	0	80	100	Cryomold
+TCGA-MP-A4SV	0		Sample Acquisition	TCGA-MP-A4SV-01	Tumor Resection	United States	Yes	No	Yes	10	90	200	Polycon
+TCGA-MP-A4SW	0		Sample Acquisition	TCGA-MP-A4SW-01	Tumor Resection	United States	Yes	Yes	Yes	20	40	200	Polycon
+TCGA-MP-A4SY	0		Sample Acquisition	TCGA-MP-A4SY-01	Tumor Resection	United States	Yes	Yes	Yes	70	40	200	Polycon
+TCGA-MP-A4T2	0		Sample Acquisition	TCGA-MP-A4T2-01	Tumor Resection	United States	Yes	No	Yes	0	90	200	Polycon
+TCGA-MP-A4T4	0		Sample Acquisition	TCGA-MP-A4T4-01	Tumor Resection	United States	Yes	Yes	Yes	40	40	200	Polycon
+TCGA-MP-A4T6	0		Sample Acquisition	TCGA-MP-A4T6-01	Tumor Resection	United States	Yes	Yes	Yes	0	50	200	Polycon
+TCGA-MP-A4T7	0		Sample Acquisition	TCGA-MP-A4T7-01	Tumor Resection	United States	Yes	No	Yes	0	70	200	Polycon
+TCGA-MP-A4T8	0		Sample Acquisition	TCGA-MP-A4T8-01	Tumor Resection	United States	Yes	No	Yes	10	70	200	Polycon
+TCGA-MP-A4T9	0		Sample Acquisition	TCGA-MP-A4T9-01	Tumor Resection	United States	Yes	Yes	Yes	0	30	200	Polycon
+TCGA-MP-A4TA	0		Sample Acquisition	TCGA-MP-A4TA-01	Tumor Resection	United States	Yes	Yes	Yes	10	25	200	Polycon
+TCGA-MP-A4TC	0		Sample Acquisition	TCGA-MP-A4TC-01	Tumor Resection	United States	Yes	Yes	Yes	30	40	200	Polycon
+TCGA-MP-A4TD	0		Sample Acquisition	TCGA-MP-A4TD-01	Tumor Resection	United States	Yes	Yes	Yes	10	40	200	Polycon
+TCGA-MP-A4TE	0		Sample Acquisition	TCGA-MP-A4TE-01	Tumor Resection	United States	Yes	Yes	Yes	40	100	200	Polycon
+TCGA-MP-A4TF	0		Sample Acquisition	TCGA-MP-A4TF-01	Tumor Resection	United States	Yes	Yes	Yes	10	40	200	Polycon
+TCGA-MP-A4TH	0		Sample Acquisition	TCGA-MP-A4TH-01	Tumor Resection	United States	Yes	Yes	Yes	5	50	200	Polycon
+TCGA-MP-A4TI	0		Sample Acquisition	TCGA-MP-A4TI-01	Tumor Resection	United States	Yes	Yes	Yes	10	30	200	Polycon
+TCGA-MP-A4TJ	0		Sample Acquisition	TCGA-MP-A4TJ-01	Tumor Resection	United States	Yes	Yes	Yes	20	40	200	Polycon
+TCGA-MP-A4TK	0		Sample Acquisition	TCGA-MP-A4TK-01	Tumor Resection	United States	Yes	Yes	Yes	20	40	200	Polycon
+TCGA-MP-A5C7	0		Sample Acquisition	TCGA-MP-A5C7-01	Tumor Resection	United States	Yes	No	Yes	4	100	200	Polycon
+TCGA-NJ-A4YF	0		Sample Acquisition	TCGA-NJ-A4YF-01	Tumor Resection	United States	Yes	No	Yes	0	95	100	Aluminum
+TCGA-NJ-A4YG	0		Sample Acquisition	TCGA-NJ-A4YG-01	Tumor Resection	United States	Yes	No	Yes	0	95	100	Aluminum Foil
+TCGA-NJ-A4YI	0		Sample Acquisition	TCGA-NJ-A4YI-01	Tumor Resection	United States	Yes	No	Yes	0	95	100	Aluminum Foil
+TCGA-NJ-A4YP	14		Sample Acquisition	TCGA-NJ-A4YP-01	Tumor Resection	United States	Yes	No	Yes	0	100	100	Aluminum Foil
+TCGA-NJ-A4YQ	0		Sample Acquisition	TCGA-NJ-A4YQ-01	Tumor Resection	United States	Yes	No	Yes	0	95	100	Aluminum Foil
+TCGA-NJ-A7XG	0		Sample Acquisition	TCGA-NJ-A7XG-01		United States	Yes	No	Yes	0	100	150	Other
+TCGA-NJ-A55A	0		Sample Acquisition	TCGA-NJ-A55A-01	Tumor Resection	United States	Yes	No	Yes	0	75	100	Aluminum Foil
+TCGA-NJ-A55O	0		Sample Acquisition	TCGA-NJ-A55O-01	Tumor Resection	United States	Yes	No	Yes	0	80	100	Aluminum Foil
+TCGA-NJ-A55R	0		Sample Acquisition	TCGA-NJ-A55R-01	Tumor Resection	United States	Yes	No	Yes	0	90	100	Aluminum Foil
+TCGA-O1-A52J	-5		Sample Acquisition	TCGA-O1-A52J-01	Tumor Resection	United States	Yes	No	Yes	0	60	105	Cryovial
+TCGA-S2-AA1A	0		Sample Acquisition	TCGA-S2-AA1A-01		United States	Yes	No	Yes	3	60	140	Cryovial
